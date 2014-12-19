@@ -3,11 +3,11 @@
  * http://www.reddit.com/r/dailyprogrammer/comments/2peac9/20141215_challenge_193_easy_a_cube_ball_cylinder/
  * 
  */
-package eu.mikesh.dailyprogrammer;
+package eu.mikesh.dailyprogrammer.easy193;
 
 import java.util.Scanner;
 
-public class Easy193 {
+public class App {
 
 	public static void main(String[] args) {
 
